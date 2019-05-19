@@ -135,7 +135,9 @@ mallcloud -- 父项目，公共依赖
 
 <img src="https://images.gitee.com/uploads/images/2019/0519/165809_57eef04c_134431.png" width="50px" height="50px" />
 
-功能列表
+后台功能列表
+<img src="https://images.gitee.com/uploads/images/2019/0519/170418_d276b6b4_134431.png"  />
+小程序功能列表
 <img src="https://images.gitee.com/uploads/images/2019/0519/170418_d276b6b4_134431.png"  />
 ## 5. 截图（点击可大图预览）
 
