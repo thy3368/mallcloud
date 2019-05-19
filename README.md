@@ -123,8 +123,6 @@ mallcloud -- 父项目，公共依赖
 │  │  ├─log-center -- 日志中心[6200]
 │  ├─mall-uaa -- spring-security认证中心[8000]
 │  ├─mall-register -- 注册中心Nacos[8848]
-│  ├─mall-web -- 前端一级工程
-│  │  ├─back-web -- 后台前端[8066]
 │  ├─mall-transaction -- 事务一级工程
 │  │  ├─txlcn-tm -- tx-lcn事务管理器[7970]
 │  ├─mall-demo -- demo一级工程
@@ -135,7 +133,10 @@ mallcloud -- 父项目，公共依赖
 &nbsp;
 关注公众号
 
+<img src="https://images.gitee.com/uploads/images/2019/0519/165809_57eef04c_134431.png" width="50px" height="50px" />
 
+功能列表
+<img src="https://images.gitee.com/uploads/images/2019/0519/170418_d276b6b4_134431.png"  />
 ## 5. 截图（点击可大图预览）
 
 <table>
@@ -168,5 +169,6 @@ mallcloud -- 父项目，公共依赖
         <td><img src="https://images.gitee.com/uploads/images/2019/0319/165033_cd0e118c_134431.png"/></td>
     </tr>
 </table>
+
 其他参考
  https://gitee.com/zlt2000/microservices-platform
