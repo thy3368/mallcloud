@@ -33,7 +33,7 @@
 * 注重代码规范，严格控制包依赖，每个工程基本都是最小依赖
 * 非常适合学习和企业中使用
 > cloud框架和组件来源：https://gitee.com/owenwangwen/open-capacity-platform
-
+https://gitee.com/zlt2000/microservices-platform
 > 业务逻辑来源：https://github.com/shenzhuan/mallplus
 
 &nbsp;
@@ -172,5 +172,4 @@ mallcloud -- 父项目，公共依赖
     </tr>
 </table>
 
-其他参考
- https://gitee.com/zlt2000/microservices-platform
+
