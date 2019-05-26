@@ -133,7 +133,7 @@ mallcloud -- 父项目，公共依赖
 &nbsp;
 关注公众号
 
-<img src="https://images.gitee.com/uploads/images/2019/0519/165809_57eef04c_134431.png" width="80px" height="80px" />
+
 <img src="https://images.gitee.com/uploads/images/2019/0519/174631_65c2a4e8_134431.png" width="80px" height="80px" />
 后台功能列表
 <img src="https://images.gitee.com/uploads/images/2019/0519/170418_d276b6b4_134431.png"  />
