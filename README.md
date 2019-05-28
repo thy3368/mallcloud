@@ -139,6 +139,14 @@ mallcloud -- 父项目，公共依赖
 <img src="https://images.gitee.com/uploads/images/2019/0519/170418_d276b6b4_134431.png"  />
 小程序功能列表
 <img src="https://images.gitee.com/uploads/images/2019/0519/170631_20a127ce_134431.png"  />
+
+ **_uniapp_** 
+
+uni-app 是一个使用 Vue.js 开发跨平台应用的前端框架，开发者编写一套代码，可编译到iOS、Android、H5、小程序等多个平台。
+
+<img src="https://images.gitee.com/uploads/images/2019/0528/141610_0b812292_134431.jpeg"/>
+
+
 ## 5. 截图（点击可大图预览）
 
 <table>
