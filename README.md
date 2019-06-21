@@ -25,6 +25,14 @@
 * Gitee地址：https://gitee.com/catshen/mallcloud-platform
 * Github地址：https://github.com/shenzhuan/mallcloud
 
+>   发布页面 http://m3w.cn/mallcloud  
+>   h5地址  http://www.yjlive.cn:8082/#/ 
+>  后台管理地址 http://www.yjlive.cn:8090 
+>  小程序体验码
+>  ![输入图片说明](https://images.gitee.com/uploads/images/2019/0621/100856_b901ecef_134431.png "屏幕截图.png")
+>  app体验 加群下载
+>  apk下载 链接: https://pan.baidu.com/s/1UiFtg3AQ2-muNjfQjsjXPw 提取码: nda2
+
 * 前后端分离的企业级微服务架构
 * 基于`Spring Boot 2.0.X`、`Spring Cloud Finchley`和`Spring Cloud Alibaba`
 * 深度定制`Spring Security`真正实现了基于`RBAC`、`jwt`和`oauth2`的无状态统一权限认证的解决方案
